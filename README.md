@@ -2,7 +2,7 @@
 
 A comprehensive career guidance platform for BSc Mathematics students, specifically designed for 2nd-year IGNOU students targeting multiple career paths including IIT JAM, GATE, CAT, UPSC, and international opportunities.
 
-🌐 **Live Demo**: [https://yourusername.github.io/bsc-math-career-roadmap/](https://yourusername.github.io/bsc-math-career-roadmap/)
+🌐 **Live Demo**: [here](https://algoguy09.github.io/gg/)
 
 ## 📋 Features
 
